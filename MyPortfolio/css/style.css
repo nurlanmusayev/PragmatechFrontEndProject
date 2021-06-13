@@ -1,0 +1,215 @@
+/* Home Section */
+
+body{
+    margin: auto;
+}
+#home{
+    height: 700px;
+    background: url('../img/mese.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#home img{
+    height: 100%;
+    width: 100%;
+}
+
+.home-logo h3{
+    font-family: 'Lora', serif;
+    position: absolute;
+    left: 11.57%;
+    padding: 20px 0px;
+    color: gray;
+}
+
+.home-image{
+    height: 200px;
+    width: 200px;
+    border-radius: 80%;
+    border: 7px solid white;
+    position: absolute;
+    left: 41.57%;
+    margin: 180px 0px 0px 0px;
+    background: url('../img/foto.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-image img{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.home-title h1{
+    color: white;
+    font-family: 'Lora', serif;
+    position: absolute;
+    left: 32.57%;
+    margin: 410px 0px 0px 0px;
+    font-size: 50px;
+}
+
+.home-text h3{
+    color: rgb(80, 66, 66);
+    font-family: 'Lora', serif;
+    position: absolute;
+    left: 40.57%;
+    margin: 500px 0px 0px 0px;
+    font-size: 25px;
+
+}
+
+
+#about{
+    height: 480px;
+    border: 1px solid black;
+}
+
+.about-title h2{
+    font-family: 'Hind Vadodara', sans-serif;
+    position: absolute;
+    left: 10.57%;
+    font-size: 37px;
+    padding: 40px 0px 0px 0px;
+}
+
+.about-text h3{
+    font-family: 'Lato', sans-serif;
+    position: absolute;
+    left: 10.57%;
+    padding: 125px 0px 0px 0px;
+}
+
+.about-info h5{
+    font-family: 'Lato', sans-serif;
+    color: #181a1b;
+    position: absolute;
+    left: 10.57%;
+    padding: 160px 0px 0px 0px;
+    line-height: 22px;
+}
+
+.about-button{
+    height: 42px;
+    width: 130px;
+    border-radius: 3%;
+    text-align: center;
+    /* border: 1px solid black; */
+    background-color: black;
+    position: absolute;
+    left: 10.57%;
+    margin: 320px 0px 0px 0px;
+    transition: all .4s ease;
+}
+
+.about-button h5{
+    margin: 11px 0px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+.about-button:hover{
+    height: 42px;
+    width: 170px;
+    background-color: green;
+}
+
+.about-box-one{
+    height: 80px;
+    width: 140px;
+    /* border: 1px solid black; */
+    position: absolute;
+    left: 50.57%;
+    margin: 80px 0px 0px 0px;
+}
+
+.about-box-one h1{
+    font-family: 'Lato', sans-serif;
+    margin: -1px 5px;
+    font-size: 27px;
+}
+
+.about-box-one h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    left: 2.67%;
+    margin: 3px 0px;
+}
+
+
+
+.about-box-two{
+    height: 80px;
+    width: 140px;
+    /* border: 1px solid black; */
+    position: absolute;
+    left: 66.57%;
+    margin: 80px 0px 0px 0px;
+}
+
+.about-box-two h1{
+    font-family: 'Lato', sans-serif;
+    margin: -1px 5px;
+    font-size: 27px;
+}
+
+.about-box-two h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    left: 2.67%;
+    margin: 3px 0px;
+}
+
+
+
+.about-box-three{
+    height: 80px;
+    width: 140px;
+    /* border: 1px solid black; */
+    position: absolute;
+    left: 50.57%;
+    margin: 210px 0px 0px 0px;
+}
+
+.about-box-three h1{
+    font-family: 'Lato', sans-serif;
+    margin: -1px 5px;
+    font-size: 27px;
+}
+
+.about-box-three h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    left: 2.67%;
+    margin: 3px 0px;
+}
+
+
+
+.about-box-four{
+    height: 80px;
+    width: 140px;
+    /* border: 1px solid black; */
+    position: absolute;
+    left: 66.57%;
+    margin: 210px 0px 0px 0px;
+}
+
+.about-box-four h1{
+    font-family: 'Lato', sans-serif;
+    margin: -1px 5px;
+    font-size: 27px;
+}
+
+.about-box-four h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    left: 2.67%;
+    margin: 3px 0px;
+}
