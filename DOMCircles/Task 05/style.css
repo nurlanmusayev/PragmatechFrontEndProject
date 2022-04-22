@@ -1,0 +1,61 @@
+*{
+    margin: 0 auto;
+}
+
+
+.table{
+    background: url("/img/American-style_pool_table_diagram_\(empty\).png");
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    height: 800px;
+    width: 100%;
+    position: absolute;
+    
+    
+}
+
+.ball-black{
+    text-align: center;
+    color: white;
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    background-color: black;
+    position: relative;
+    margin: 10px 20px;
+}
+
+.ball-white{
+    text-align: center;
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    background-color: white;
+    position: relative;
+    margin: 10px 20px;
+}
+
+.ball-red{
+    text-align: center;
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    background-color: red;
+    position: relative;
+    margin: 10px 20px;
+   
+    
+}
+
+.ball-blue{
+    text-align: center; 
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    background-color: blue;
+    position: relative;
+    margin: 10px 20px;
+    
+}
