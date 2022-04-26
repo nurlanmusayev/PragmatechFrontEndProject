@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+
+
+.body{
+    transition: all .3s ease;
+}
+.swtch{
+    height: 28px;
+    width: 63px;
+    color: antiquewhite;
+    box-shadow: 0px 0px 7px black;
+    border-radius: 30px;
+    margin: 270px 720px;
+    padding: 6px 6px;
+}
+
+
+.swtchclick{
+    height: 30px;
+    width: 50%;
+    border-radius: 30px;
+    transition: all .3s ease;
+    background-color: white;
+    box-shadow: 0px 0px 6px black;
+    cursor: pointer;
+}
+
+.swtchclick.active{
+    transition: all .3s ease;
+    transform: translateX(30px);
+    background-color: rgb(8, 16, 49);
+    box-shadow: 0px 0px 20px black;
+}
+
+
+.swtch.active{
+    background-color: rgb(8, 16, 49);
+    box-shadow: 0px 0px 15px black;
+}
+
+.body.active{
+    transition: all .3s ease;
+    background-color: rgb(8, 16, 49);
+}
