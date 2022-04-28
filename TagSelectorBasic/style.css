@@ -1,0 +1,176 @@
+*{
+    margin: 0px auto;
+   
+}
+.body{
+    background-color: rgb(86, 146, 155);
+}
+
+.h4{
+    font-family: 'Roboto', sans-serif;
+}
+.select{
+    position: relative;
+    height: 380px;
+    width: 570px;
+    background-color: white;
+    border-radius: 2.5%;
+    margin: 170px 465px;
+    box-shadow: 0px 0px 5px rgb(85, 83, 83);
+}
+
+.select h2{
+    color: black;
+    background-color: white;
+    position: absolute;
+    top: 10%;
+    left: 7.7%;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.movie{
+    position: absolute;
+    align-items: center;
+    top: 24%;
+    left: 7.5%;
+    height: 33px;
+    width: 120px;
+    background-color: rgb(86, 146, 155);
+    box-shadow: 0px 0px 7px black;
+}
+
+.movie h4{
+    display: inline-block;
+    color: white;
+}
+.movie i{
+    color: white;
+}
+.movie-two{
+    position: absolute;
+    align-items: center;
+    top: 24%;
+    left: 32.5%;
+    height: 33px;
+    width: 120px;
+    background-color: rgb(231, 245, 240);
+    box-shadow: 0px 0px 7px black;
+}
+
+
+.movie-three{
+    
+    position: absolute;
+    align-items: center;
+    top: 24%;
+    left: 57.5%;
+    height: 33px;   
+    width: 120px;
+    background-color: rgb(231, 245, 240);
+    box-shadow: 0px 0px 7px black;
+}
+
+.movie-four{
+    position: absolute;
+    align-items: center;
+    top: 38%;
+    left: 7.5%;
+    height: 33px;
+    width: 160px;
+    background-color: rgb(231, 245, 240);
+    box-shadow: 0px 0px 7px black;
+}
+
+
+.movie-five{
+    position: absolute;
+    align-items: center;
+    top: 38%;
+    left: 38.5%;
+    height: 33px;
+    width: 120px;
+    background-color: rgb(231, 245, 240);
+    box-shadow: 0px 0px 7px black;
+}
+
+
+.movie-six{
+    position: absolute;
+    align-items: center;
+    top: 38%;
+    left: 63.5%;
+    height: 33px;   
+    width: 188px;
+    background-color: rgb(231, 245, 240);
+    box-shadow: 0px 0px 7px black;
+}
+
+.movie-seven{
+    position: absolute;
+    align-items: center;
+    top: 51%;
+    left: 7.5%;
+    height: 33px;
+    width: 100px;
+    background-color: rgb(231, 245, 240);
+    box-shadow: 0px 0px 7px black;
+}
+
+
+.movie-eight{
+    position: absolute;
+    align-items: center;
+    top: 51%;
+    left: 28.5%;
+    height: 33px;
+    width: 140px;
+    background-color: rgb(86, 146, 155);
+    box-shadow: 0px 0px 7px black;
+}
+.movie-eight h4{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+
+}
+
+.movie-eight i{
+    color: white;
+}
+
+
+.movie-nine{
+    position: absolute;
+    align-items: center;
+    top: 51%;
+    left: 55.5%;
+    height: 33px;
+    width: 100px;
+    background-color: rgb(231, 245, 240);
+    box-shadow: 0px 0px 7px black;
+}
+
+.movie-ten{
+    position: absolute;
+    align-items: center;
+    top: 51%;
+    left: 75.5%;
+    height: 33px;
+    width: 100px;
+    background-color: rgb(231, 245, 240);
+    box-shadow: 0px 0px 7px black;
+}
+
+
+.add-move{
+    position: absolute;
+    top: 75%;
+    left: 11.3%;
+}
+
+.addmove{
+    height: 33px;
+    width: 420px;
+    font-family: 'Roboto', sans-serif;
+}
